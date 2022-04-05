@@ -1,4 +1,9 @@
-# MIMO bootstrap contracts
+mimo bootstrap contracts
+======
+
+Smart contracts used in mimo multichain vePICO distribution.
+
+
 
 ## Local Development
 
